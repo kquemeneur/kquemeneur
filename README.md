@@ -1,7 +1,8 @@
 # Hi there :wave:
-Welcome to my GitHub profile althought there isn't much to show at the moment! :eyes:
+Welcome to my GitHub profile althought there isn't much to show at the moment! 👀
 
 ## About Me
-
-- I'm currently studying computer science at the ENSSAT engineering school of Lannion, located in France. :computer:
-- I'm also currently doing an apprenticeship in Orange Innovation at Lannion. :office:
+- 🏫 Student in computer science at the ENSSAT engineering school of Lannion
+- 🏢 Apprentice in Orange Innovation
+- 📍 Located in Lannion, France
+- 💻 Enjoys programming and discovering new technologies
